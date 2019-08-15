@@ -14,10 +14,7 @@ class School
    else
      roster[grade] = [name]
    end
+  end
   def grade
   end
-
-end
-end
-
 end
