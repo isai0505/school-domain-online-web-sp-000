@@ -10,6 +10,7 @@ class School
 
  def add_student(name, grade)
    roster[grade] = [name]
+   @students = student
   end
 
 end
